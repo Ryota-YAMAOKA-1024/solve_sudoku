@@ -1,4 +1,3 @@
-```markdown
 # Sudoku Solver
 
 This is a Python implementation of a Sudoku solver using the backtracking algorithm. The solver reads a Sudoku puzzle, solves it, and prints the solution.
@@ -95,4 +94,3 @@ python sudoku_solver.py
 ## License
 
 This project is licensed under the MIT License.
-```
