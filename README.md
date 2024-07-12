@@ -1,5 +1,3 @@
-以下は、上記のPython数独ソルバーに関するREADME.mdの例です。
-
 ```markdown
 # Sudoku Solver
 
